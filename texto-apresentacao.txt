@@ -1,0 +1,29 @@
+## SLIDES INTRODUÇÃO
+
+##
+A análise dos indicadores educacionais brasileiros dos últimos anos não permite sensação de conforto, muito menos oferece motivos para comemorações.
+Segundo os dados de 2015 do PISA (Programme for International Student Assessment), o programa internacional de avaliação de estudantes, desenvolvido e coordenado pela OCDE (Organização para Cooperação e Desenvolvimento Econômico), o desempenho dos estudantes do ensino básico no Brasil, nas três áreas avaliadas pelo programa, ciências, leitura e matemática, está abaixo da média dos estudantes em países membros da organização.
+Dos 70 países avaliados pelo programa, considerando os resultados para a área de ciências, o Brasil posicionou-se na 63a colocação.
+Reforçando esse mal-estar, o relatório indica que, em ciências, o valor médio de desempenho dos estudantes brasileiros tem se mantido estável, sem apresentar mudanças estatisticamente significativas, desde o início da avaliação na área, em 2006.
+
+##
+Estudos como a edição de 2016 do Censo Escolar da Educação Básica [INEP 2017], realizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) 1 , proporcionam reflexões sobre a infraestrutura das instituições de ensino básico no território nacional em relação aos baixos índices apresentados pelo PISA de 2015.
+No contexto do ensino de ciências, o censo identificou que o percentual de estudantes brasileiros que possuem acesso a laboratórios de ciências no ensino básico é expressivamente inferior à estrutura prevista no PNE (Plano Nacional de Educação).
+
+##
+Conforme observado na Figura 1, entre os recursos avaliados pelo censo, os laboratórios de ciências possuem os mais baixos índices de presença nas escolas.
+
+##
+Os resultados apresentados pelo PISA de 2015 e os problemas de infraestrutura evidenciados pelo Censo Escolar da Educação Básica de 2016 demandam séria atenção.
+Investigações relacionando o perfil socioeconômico e de infraestrutura das escolas de ensino básico no Brasil associadas ao desempenho dos seus alunos em exames como o PISA atualmente podem contar com técnicas presentes na área de Mineração de Dados Educacionais (MDE).
+
+##
+Este estudo possui o objetivo de gerar um modelo preditivo do indicador de desempenho médio em ciências da natureza e suas tecnologias dos alunos de escolas do ensino médio a partir dos dados públicos referentes ao Exame Nacional do Ensino Médio (ENEM) de 2015.
+Tais dados são fornecidos pelo INEP, agrupados por escolas, como subsídio a estratégias que visem a melhoria da qualidade da educação.
+
+## SLIDES MINERAÇÃO DE DADOS EDUCACIONAIS
+
+##
+A MDE consiste na aplicação da Mineração de Dados (MD) aplicada ao contexto educacional.
+A MD é a etapa principal do processo de Descoberta de Conhecimento em Bases de Dados (DCBD, sigla em português para o termo em inglês KDD, Knowledge Discovery in Database).
+Os autores abordam a DCDB através da Figura 2, que apresenta o processo em suas quatro etapas: A base de dados, o pré-processamento, a MD e o pós-processamento.
