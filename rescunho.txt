@@ -1,23 +1,4 @@
 
-
-## SLIDES MINERAÇÃO DE DADOS EDUCACIONAIS
-
-##
-
-
-##
-Silva e Silva (2014) explicam que, no DCDB, podem ser utilizadas uma ou mais bases de dados, disponibilizadas de forma estruturada ou não estruturada.
-A integração das bases utilizadas ocorre na etapa de pré-processamento, bem como a correção de valores ausentes, ruidosos, inconsistentes e redundantes.
-Na etapa da MD, segundo Silva e Silva, é extraído algum tipo de conhecimento a partir da execução de algum algoritmo da tarefa utilizada.
-Essas tarefas podem ser: modelo preditivo, análise de agrupamento e regras de associação.
-A análise dos resultados obtidos é realizada na quarta e última etapa, o pós-processamento.
-
-##
-Segundo Silva e Silva (2014), variados estudos são encontrados na literatura acadêmica utilizando técnicas da MD no contexto educacional.
-É citada, por exemplo:
-	a aplicação de árvores de decisão para o fornecimento de informações em apoio a gestores de instituições de ensino na avaliação do desempenho dos seus alunos;
-        e a clusterização de dados na identificação de fatores relacionados à satisfação de alunos em instituições de ensino, também em apoio à tomada de decisão de seus gestores.
-
 ## SLIDE TRABALHOS RELACIONÁDOS
 
 ##
